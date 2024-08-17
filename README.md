@@ -15,6 +15,17 @@ The Price Negotiator Chatbot is a web application built using Django for the fro
 
 The Price Negotiator Chatbot is designed to assist users in negotiating prices for products or services. It utilizes natural language processing capabilities provided by the OpenAI API to understand user queries and respond with appropriate negotiation strategies.
 
+![image](https://github.com/venkateshsridharann/Price-Negotiator-Chatbot/assets/36308828/79bf0e33-788f-4b53-8542-b7ffcef209f2)  
+
+![image](https://github.com/venkateshsridharann/Price-Negotiator-Chatbot/assets/36308828/397db24f-2224-45bb-98e1-140b3e1d8701)  
+
+![image](https://github.com/venkateshsridharann/Price-Negotiator-Chatbot/assets/36308828/88d131b6-0c78-44b0-becc-a64dd08d6735)    
+  
+![image](https://github.com/venkateshsridharann/Price-Negotiator-Chatbot/assets/36308828/746025f9-8852-42bb-a04b-59f1b53e0d7d)
+
+
+
+
 ## Features
 
 - User-friendly web interface for interacting with the chatbot.
